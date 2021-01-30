@@ -1,6 +1,9 @@
 package zadania;
 
 public class Author {
+
+    // moja wersja pliku
+
     private String surname;
     private String nationality;
 
