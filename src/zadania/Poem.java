@@ -3,6 +3,8 @@ package zadania;
 public class Poem {private Author creator;
     private int stropheNumbers;
 
+    // tralala
+
     Poem (Author creator, int stropheNumbers) {
         this.creator = creator;
         this.stropheNumbers = stropheNumbers;
